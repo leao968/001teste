@@ -56,7 +56,3 @@ Algoritmos aprendem padrões de falha, otimizando diagnósticos.
 ## Visualização
 
 Para ver a apresentação gráfica, abra `index.html` no navegador.
-
-## Download
-
-> O link para o TCC completo será disponibilizado futuramente.
